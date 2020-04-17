@@ -1,1 +1,16 @@
 // Specific CSS for your home-page
+.banner {
+  height: 900px;
+  width: 100%;
+  background-image: image-url('marbre.jpg');
+  margin: 0 auto;
+  background-size: cover;
+
+}
+
+.home-title {
+  font-size: 150px;
+  font-family: vogue;
+  padding-top: 80px;
+  padding-left: 110px;
+}
